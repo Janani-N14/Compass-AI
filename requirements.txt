@@ -1,0 +1,2 @@
+# Root dependencies (optional mono-env)
+# Install backend dependencies: pip install -r backend/requirements.txt
